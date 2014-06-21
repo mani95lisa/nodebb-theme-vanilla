@@ -1,10 +1,3 @@
-Hello,
-
-We received a request to reset your password, possibly because you have forgotten it. If this is not the case, please ignore this email.
-
-To continue with the password reset, please visit the following link:
+我们刚收到您重置密码的请求，如果不是您主动操作的请忽略该邮件
 
     {reset_link}
-
-Thanks!
-{site_title}

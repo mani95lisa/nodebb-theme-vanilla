@@ -1,11 +1,5 @@
-Hello {username},
+{username}，欢迎加入，玩得开心，感谢有你，码路同行 ^_^
 
-Thank you for registering with {site_title}!
+    激活账号并登陆:{confirm_link}
 
-To fully activate your account, we need to verify that you own the email address you registered with. Please visit on the following link:
-
-    {confirm_link}
-
-
-Thanks!
-{site_title}
+本站由小伙伴们业余时间维护，旨在为大家提供一处纯粹舒适的交流之地，服务器由UCloud云服务供应商鼎力支持，所以这里永远不会有狗皮膏药似的广告，由衷希望大家玩的开心 :)
